@@ -1,0 +1,16 @@
+<style>
+
+.kundenstimme {
+		position: absolute;
+		opacity: 0;
+		transition: opacity 0.8s linear;
+		overflow: hidden;
+}
+.kundenstimme.aktiv {
+    opacity: 1;
+}
+#kundenstimmen-wrap .elementor-widget-wrap {
+    transition: height 0.8s ease-in-out;
+}
+
+</style>
