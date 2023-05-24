@@ -1,4 +1,4 @@
-A little Javascript to swap through some text modules on a WordPress page
+<h1>A little Javascript to swap through some text modules on a WordPress page</h1>
 
 Because Elementor (lite) does not have a kind of content slider, I had to code some Javascript to flip through some testimonials.
 This is actually used on https://biancaflaschner.com
